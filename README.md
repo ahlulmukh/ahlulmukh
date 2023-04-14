@@ -31,7 +31,4 @@
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-ahlulmukh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahlulmukh/">
 <img alt="Steam" src="https://img.shields.io/badge/-ahlulmukh-4E94EC?style=flat&logo=Linkedin&logoColor=0a0b24"/></a>
-<p align="center">
-    <a href="https://discord.com/users/452494039250632704"><img src="https://lanyard.cnrad.dev/api/452494039250632704?borderRadius=20px&bg=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord" width="450"/></a>
-</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
