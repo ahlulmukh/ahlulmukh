@@ -5,7 +5,7 @@
 - 📚 &nbsp; Studying Teknologi Rekayasa Komputer Dan Jaringan at <a href="http://pnl.ac.id/id">PNL</a>
 - 👀 &nbsp; Interested in Machine Learning
 
-### 🛠 &nbsp;Tech Stacks Learning
+### 🛠 &nbsp;I'm currently learning
 
 ![Node.js](https://img.shields.io/badge/-Node.js-280137?style=flat&logo=node.js)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-280137?style=flat&logo=php)&nbsp;
@@ -27,8 +27,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-[<img src="https://img.shields.io/badge/Website-amiruldev.my.id-blue">](www.aldev.my.id)
-[<img src="https://img.shields.io/badge/Email-amiruldev20@gmail.com-purple">](mailto:ahluldev20@gmail.com)
+[<img src="https://img.shields.io/badge/Website-amiruldev.my.id-blue">](www.amiruldev.my.id)
+[<img src="https://img.shields.io/badge/Email-amiruldev20@gmail.com-purple">](mailto:amiruldev20@gmail.com)
 <a href="https://www.instagram.com/ahlulmukh">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-ahlulmukh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahlulmukh/">
