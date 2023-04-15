@@ -27,6 +27,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+[<img src="https://img.shields.io/badge/Website-amiruldev.my.id-blue">](www.aldev.my.id)
+[<img src="https://img.shields.io/badge/Email-amiruldev20@gmail.com-purple">](mailto:ahluldev20@gmail.com)
 <a href="https://www.instagram.com/ahlulmukh">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-ahlulmukh-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ahlulmukh/">
