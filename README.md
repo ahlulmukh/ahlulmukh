@@ -2,8 +2,8 @@
 
 <h1 align="center" style="font-size:250px">👋 Welcome to My Profile</h1>
 
-- 📚 &nbsp; Studying Teknologi Rekayasa Komputer Dan Jaringan at <a href="http://pnl.ac.id/id">PNL</a>
-- 👀 &nbsp; Interested in Machine Learning
+- 📚 &nbsp; Hello, I'm Ahlul Mukhramin, 21yo.
+- 👀 &nbsp; I'm a just atm (amati tiru modifikasi) developer.
 
 ### 🛠 &nbsp;I'm currently learning
 
