@@ -3,7 +3,6 @@
 <h1 align="center" style="font-size:250px">👋 Welcome to My Profile</h1>
 
 - 📚 &nbsp; Hello, I'm Ahlul Mukhramin, 21yo.
-- 👀 &nbsp; I'm a just atm (amati tiru modifikasi) developer.
 
 ### 🛠 &nbsp;I'm currently learning
 
