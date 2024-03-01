@@ -18,7 +18,7 @@
 
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/ahlulmukh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahlulmukh&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahlulmukh&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahlulmukh&layout=compact&langs_count=8&theme=omni"/>
   </a>
 </p>
