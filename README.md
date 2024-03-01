@@ -19,7 +19,6 @@
 <p align="center" class="d-flex justify-content-center align-items-center">
   <a href="https://github.com/ahlulmukh">
   <img height="180em" src="https://stats-pearl-phi.vercel.app/api?username=ahlulmukh&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://stats-pearl-phi.vercel.app/?user=ahlulmukh&theme=dracula&hide_border=true"/>
   <img height="180em" src="https://stats-pearl-phi.vercel.app/api/top-langs/?username=ahlulmukh&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </p>
