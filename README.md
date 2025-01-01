@@ -2,7 +2,7 @@
 
 <h1 align="center" style="font-size:250px">👋 Welcome to My Profile</h1>
 
-- 📚 &nbsp; Hello, I'm Ahlul Mukhramin, 21yo.
+- 📚 &nbsp; Hello, I'm Ahlul Mukhramin, 23yo.
 
 ### 🛠 &nbsp;I'm currently learning
 
@@ -12,7 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-280137?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-280137?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-280137?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-280137?style=flat&logo=git)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
